@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nhan-portfolio/static/css/main.1f1b4e30.css",
+    "main.js": "/nhan-portfolio/static/js/main.490ac680.js",
+    "static/media/nhanduong.jpeg": "/nhan-portfolio/static/media/nhanduong.5eda88b053d89a866b40.jpeg",
+    "static/media/Travel Plan IMG.jpg": "/nhan-portfolio/static/media/Travel Plan IMG.8540c6a1ac57f35c67ec.jpg",
+    "static/media/developmenttracker.png": "/nhan-portfolio/static/media/developmenttracker.c3cb833b7f27fbb63423.png",
+    "static/media/employee_tracker.png": "/nhan-portfolio/static/media/employee_tracker.706a183afc3c608ff312.png",
+    "index.html": "/nhan-portfolio/index.html",
+    "main.1f1b4e30.css.map": "/nhan-portfolio/static/css/main.1f1b4e30.css.map",
+    "main.490ac680.js.map": "/nhan-portfolio/static/js/main.490ac680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1b4e30.css",
+    "static/js/main.490ac680.js"
+  ]
+}
